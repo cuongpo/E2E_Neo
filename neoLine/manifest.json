@@ -1,0 +1,37 @@
+{
+   "action": {
+      "default_icon": "assets/logo128.png",
+      "default_popup": "index.html#popup"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+   },
+   "content_scripts": [ {
+      "js": [ "neoline.js", "neolineN3.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "NEO thin wallet for chrome extension",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "https://neoline.cn/*" ]
+   },
+   "icons": {
+      "128": "assets/logo128.png",
+      "16": "assets/logo16.png",
+      "48": "assets/logo48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlkh/R2dObLUJyzqI48IRJK3nGZ39i9OQNJU+Tr5G4NHMXge4izCifoRZcsS8XTPKhCHD9CdNFRfyaJ4z28Gh+dQapKJZnW/7egrO6ZdyAyL8xneWRSkOahk8jkmwKS1yeTuBPxqLHeSmv8kqR+7JCYGszkyuueynCBrSWEG2wyw9D/CgWtZQo7qJj8KzTAz9VApi/EATgNPnvSOscMvdwjwtc8CRC9Bq630KKxnd82TFEcMOy/tGoQiZ2v0nRodcdVJ3RNwVmC7K4f8uAUOOvJ80AVPfRGnZNdDkSx+wwbrpALYIFYqNLqWD92p22xiFBZcd6GNxhlApUatYH9daywIDAQAB",
+   "manifest_version": 3,
+   "name": "NeoLine",
+   "permissions": [ "storage", "notifications", "activeTab", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0.4",
+   "web_accessible_resources": [ {
+      "extension_ids": [  ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "dapi.js", "dapiN3.js" ]
+   } ]
+}

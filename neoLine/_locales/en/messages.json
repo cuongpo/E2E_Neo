@@ -1,0 +1,980 @@
+{
+   "ABOUT_US": {
+      "message": "ABOUT US"
+   },
+   "Active": {
+      "message": "Active"
+   },
+   "AddNEP11": {
+      "message": "Add NEP11"
+   },
+   "AddNetwork": {
+      "message": "Add Network"
+   },
+   "AssetIntentOverrideInputs": {
+      "message": "Asset intent override inputs"
+   },
+   "AssetIntentOverrideOutputs": {
+      "message": "Asset intent override outputs"
+   },
+   "AttachedAssets": {
+      "message": "Attached assets"
+   },
+   "CalledByEntry": {
+      "message": "The default signature."
+   },
+   "ChainSmartContractDeploy": {
+      "message": "Smart Contract Invocation"
+   },
+   "ClickToLearnMore": {
+      "message": "Click to learn more!"
+   },
+   "Confirm": {
+      "message": "Confirm"
+   },
+   "Contract": {
+      "message": "Contract"
+   },
+   "ContractScriptHash": {
+      "message": "Contract script hash"
+   },
+   "Copied": {
+      "message": "Copied!"
+   },
+   "CopyToClipboard": {
+      "message": "Copy to clipboard"
+   },
+   "CreatingImportingWallet": {
+      "message": "Creating/importing a wallet confirms I have read and agree to the "
+   },
+   "CustomContracts": {
+      "message": "Custom contract, the signature can be used in the specified contract."
+   },
+   "CustomGroups": {
+      "message": "Custom contract group, the signature can be used in the specified contract group."
+   },
+   "EXPORT": {
+      "message": "EXPORT"
+   },
+   "EncryptedKeyPattern": {
+      "message": "wrong Encrypted Key"
+   },
+   "EncryptedKeyRequired": {
+      "message": "Encrypted Key required"
+   },
+   "Explorer_URL": {
+      "message": "Block Explorer URL(Optional)"
+   },
+   "Fee": {
+      "message": "Fee"
+   },
+   "GASFEE": {
+      "message": "GAS FEE"
+   },
+   "Global": {
+      "message": "The risk is extremely high. The contract may transfer all the assets in the address, and only choose when the contract is extremely trusted."
+   },
+   "IMPORT": {
+      "message": "IMPORT"
+   },
+   "ImportLedgerWallet": {
+      "message": "Import Ledger Wallet"
+   },
+   "ImportSuccessful": {
+      "message": "Import successful, please check in NeoLine extension"
+   },
+   "ImportThisAccount": {
+      "message": "Import this Account"
+   },
+   "Imported": {
+      "message": "Imported"
+   },
+   "Invalid_RPC_URL": {
+      "message": "Invalid RPC URL"
+   },
+   "InvocationArguments": {
+      "message": "Invocation arguments"
+   },
+   "LEDGER": {
+      "message": "Connect hardware wallet"
+   },
+   "LedgerConnectedNeo3Ready": {
+      "message": "Ledger connected, NEO N3 app open, ready for use."
+   },
+   "LedgerConnectedNeoReady": {
+      "message": "Ledger connected, NEO app open, ready for use."
+   },
+   "LedgerInstallNeo3App": {
+      "message": "Note: Please ensure your Ledger has the latest NEO N3 app installed."
+   },
+   "LedgerInstallNeoApp": {
+      "message": "Note: Please ensure your Ledger has the latest NEO apps installed."
+   },
+   "LedgerNotSupportComputer": {
+      "message": "Ledger not supported on this computer."
+   },
+   "NETWORKFEE": {
+      "message": "NETWORK FEE"
+   },
+   "NEW": {
+      "message": "NEW"
+   },
+   "Name": {
+      "message": "Name"
+   },
+   "Network": {
+      "message": "Network"
+   },
+   "NetworkName": {
+      "message": "Network Name"
+   },
+   "Networks": {
+      "message": "Networks"
+   },
+   "New_RPC_URL": {
+      "message": "New RPC URL"
+   },
+   "Next": {
+      "message": "Next"
+   },
+   "No": {
+      "message": "No"
+   },
+   "NoWallet": {
+      "message": "No wallet, please import or create."
+   },
+   "None": {
+      "message": "Only sign transactions, and do not allow any contract to use this signature."
+   },
+   "OnePasswordPattern": {
+      "message": "One Pass Setting"
+   },
+   "OnePasswordTitle": {
+      "message": "Password Mode Switch"
+   },
+   "Operation": {
+      "message": "Operation"
+   },
+   "PRIORITYFEE": {
+      "message": "PRIORITY FEE"
+   },
+   "PleaseEnterWalletName": {
+      "message": "Please enter wallet name"
+   },
+   "PrivacyPolicy": {
+      "message": "Privacy Policy"
+   },
+   "PublicKey": {
+      "message": "PublicKey(encoded)"
+   },
+   "SYSTEMFEE": {
+      "message": "SYSTEM FEE"
+   },
+   "Scope": {
+      "message": "Scope"
+   },
+   "Search": {
+      "message": "Search..."
+   },
+   "Sort": {
+      "message": "Sort"
+   },
+   "SwitchNow": {
+      "message": "Switch Now"
+   },
+   "SwitchTo": {
+      "message": "Switch to"
+   },
+   "Symbol": {
+      "message": "Symbol"
+   },
+   "TOTAL": {
+      "message": "TOTAL"
+   },
+   "TRANSFER": {
+      "message": "TRANSFER"
+   },
+   "TermsOfService": {
+      "message": "Terms of Service"
+   },
+   "TransactionAttributes": {
+      "message": "Transaction attributes"
+   },
+   "TransactionDeniedByUser": {
+      "message": "Transaction denied by user."
+   },
+   "TransactionTooLarge": {
+      "message": "Transaction too large for Ledger to sign."
+   },
+   "VerificationPassed": {
+      "message": "Verification passed"
+   },
+   "WIFPattern": {
+      "message": "wrong WIF"
+   },
+   "WIFRequired": {
+      "message": "WIF is required"
+   },
+   "Wait": {
+      "message": "Wait"
+   },
+   "WalletAddress": {
+      "message": "Wallet address"
+   },
+   "Yes": {
+      "message": "Yes"
+   },
+   "YourSigningAddress": {
+      "message": "Your signing address"
+   },
+   "about": {
+      "message": "About us"
+   },
+   "account": {
+      "message": "Wallets"
+   },
+   "accountAdded": {
+      "message": "Account added"
+   },
+   "accountDetails": {
+      "message": "Account details"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "addAsset": {
+      "message": "Add asset"
+   },
+   "addAssetTip": {
+      "message": "Are you sure to add this asset?"
+   },
+   "addAssetWarn": {
+      "message": "Please be aware that this asset is not officially verified by the wallet and there will be risks involved in its security."
+   },
+   "added": {
+      "message": "Added"
+   },
+   "address": {
+      "message": "Address"
+   },
+   "allTransfer": {
+      "message": "All"
+   },
+   "amount": {
+      "message": "Amount"
+   },
+   "and": {
+      "message": " & "
+   },
+   "asset": {
+      "message": "asset"
+   },
+   "assets": {
+      "message": "Assets"
+   },
+   "authDelAllTip": {
+      "message": "Clear all authorized sites"
+   },
+   "authorizationManage": {
+      "message": "Authorization Management"
+   },
+   "authorizationManageTips": {
+      "message": "Clean up authorized sites"
+   },
+   "authorized": {
+      "message": "Authorized"
+   },
+   "backUp": {
+      "message": "Back Up"
+   },
+   "backUpDesc1": {
+      "message": "1. Mastering the private key is equivalent to mastering the ownership of account assets"
+   },
+   "backUpDesc2": {
+      "message": "2. Please copy carefully, distinguish between uppercase and lowercase, and keep it in a safe place; NeoLine is a decentralized wallet and will not store your private key; once the private key is lost, it cannot be retrieved, please make sure to back up the private key."
+   },
+   "backUpLater": {
+      "message": "Later"
+   },
+   "backUpNow": {
+      "message": "Now"
+   },
+   "backUpSafeDesc": {
+      "message": "Your private key has not been backed up yet. Please be sure to back up the private key to restore all assets corresponding to this address, to prevent the asset loss caused by forgetting password, application deletion, phone loss, etc."
+   },
+   "backUpTip": {
+      "message": "Back up Reminder"
+   },
+   "backUpTipLater": {
+      "message": "Later"
+   },
+   "backUpsafeTip": {
+      "message": "Security Warning"
+   },
+   "balance": {
+      "message": "Balance"
+   },
+   "balancecolon": {
+      "message": "Balance:"
+   },
+   "beijingTime": {
+      "message": "China Standard Time"
+   },
+   "broadcastOverride": {
+      "message": "Broadcast Override"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "caution": {
+      "message": "Caution"
+   },
+   "chooseNep6File": {
+      "message": "Choose Nep6 File"
+   },
+   "claim": {
+      "message": "Claim"
+   },
+   "clearCache": {
+      "message": "Local Cache"
+   },
+   "clearCacheBtn": {
+      "message": "clear"
+   },
+   "clearCacheTip": {
+      "message": "Clear all local cache"
+   },
+   "clearPrivacyDataBtn": {
+      "message": "clear all authorized sites"
+   },
+   "clearPrivacyDataTip": {
+      "message": "Once these authorized sites cleared, all sites must re-request to view account information or request transfers."
+   },
+   "clearStorageTips": {
+      "message": "Confirm clear cache?"
+   },
+   "clickHere": {
+      "message": "click here."
+   },
+   "close": {
+      "message": "Close"
+   },
+   "closeWallet": {
+      "message": "Close wallet"
+   },
+   "companyWebsite": {
+      "message": "Official Website"
+   },
+   "complete": {
+      "message": "Complete"
+   },
+   "confirmError": {
+      "message": "Two passwords are different"
+   },
+   "confirmed": {
+      "message": "Confirmed"
+   },
+   "confirming": {
+      "message": "confirming"
+   },
+   "connect": {
+      "message": "Connect"
+   },
+   "connectChooseAllow": {
+      "message": "Allow and no longer remind"
+   },
+   "connectChooseNotAllow": {
+      "message": "No longer allowed"
+   },
+   "connectLedgerDevice": {
+      "message": "Please connect your Ledger device"
+   },
+   "connectedTip": {
+      "message": "Connected to NeoLine wallet allowed"
+   },
+   "contactUs": {
+      "message": "Contact Us"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "copyAddress": {
+      "message": "Copy address"
+   },
+   "create": {
+      "message": "Create"
+   },
+   "createNewWallet": {
+      "message": "Create a new wallet"
+   },
+   "createOrImportNeo2First": {
+      "message": "Please create or import a Neo Legacy account first"
+   },
+   "createOrImportNeo3First": {
+      "message": "Please create or import a Neo N3 account first"
+   },
+   "createTip": {
+      "message": "Welcome to NeoLine, create a new wallet."
+   },
+   "createWallet": {
+      "message": "Create wallet"
+   },
+   "createYour": {
+      "message": "Create Your"
+   },
+   "creating": {
+      "message": "Creating"
+   },
+   "currencies": {
+      "message": "Currencies"
+   },
+   "currencyUnit": {
+      "message": "Currency Unit"
+   },
+   "customize": {
+      "message": "Customize"
+   },
+   "darkMode": {
+      "message": "Dark Mode"
+   },
+   "data": {
+      "message": "Data"
+   },
+   "delAllAuthListConfirm": {
+      "message": "Are you sure delete all authorized sites?"
+   },
+   "delAssetTip": {
+      "message": "Do you confirm the deletion?"
+   },
+   "delWalletConfirm": {
+      "message": "Are you sure to delete this wallet?"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "details": {
+      "message": "Details"
+   },
+   "displayWIF": {
+      "message": "Show Private Key"
+   },
+   "done": {
+      "message": "Done"
+   },
+   "donotScreenshot": {
+      "message": "Please do not capture"
+   },
+   "donotScreenshotTip": {
+      "message": "Do not share or save screenshots, which may be captured by third party malware and cause asset loss. Pay attention to the safety of the surrounding environment when copying."
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "editFee": {
+      "message": "Edit Fee"
+   },
+   "empty": {
+      "message": "Empty"
+   },
+   "enterConfirmNewPassword": {
+      "message": "Enter the new password again"
+   },
+   "enterConfirmPassword": {
+      "message": "Enter password again"
+   },
+   "enterEncryptedKey": {
+      "message": "Enter Encrypted Key"
+   },
+   "enterFilePassword": {
+      "message": "Enter file password"
+   },
+   "enterNewPassword": {
+      "message": "Enter a new password"
+   },
+   "enterPassword": {
+      "message": "Enter password"
+   },
+   "enterWIF": {
+      "message": "Enter WIF(Private key)"
+   },
+   "enterWalletName": {
+      "message": "Set wallet name"
+   },
+   "errorLedgerOpen": {
+      "message": "There was an error parsing this transaction. Please make sure you have the correct Ledger app open."
+   },
+   "estimated": {
+      "message": "Estimated"
+   },
+   "expandView": {
+      "message": "Expand View"
+   },
+   "exportWallet": {
+      "message": "Export wallet"
+   },
+   "fast": {
+      "message": "Fast"
+   },
+   "filePasswordRequired": {
+      "message": "File password is required"
+   },
+   "firstDigitalIdentity": {
+      "message": "First Digital Identity"
+   },
+   "from": {
+      "message": "From"
+   },
+   "generalSettings": {
+      "message": "General settings"
+   },
+   "hello": {
+      "message": "Hello"
+   },
+   "hidden": {
+      "message": "Hidden"
+   },
+   "home": {
+      "message": "Home"
+   },
+   "iKonw": {
+      "message": "Known"
+   },
+   "import": {
+      "message": "Import"
+   },
+   "importFile": {
+      "message": "File Import"
+   },
+   "importKey": {
+      "message": "Private Key Import"
+   },
+   "importMethod": {
+      "message": "Import Method"
+   },
+   "importNewWallet": {
+      "message": "Import an existing wallet"
+   },
+   "importWallet": {
+      "message": "Import wallet"
+   },
+   "importing": {
+      "message": "Importing"
+   },
+   "inputN3AddressTip": {
+      "message": "N3 address"
+   },
+   "inputN3NNSAddressTip": {
+      "message": "N3 address or NeoNS Name"
+   },
+   "inputNeo2AddressTip": {
+      "message": "Neo Legacy address"
+   },
+   "language": {
+      "message": "Language"
+   },
+   "lengthLimit": {
+      "message": "Length limit"
+   },
+   "loading": {
+      "message": "loading..."
+   },
+   "lock": {
+      "message": "LOCK"
+   },
+   "login": {
+      "message": "Login"
+   },
+   "loginTip": {
+      "message": "Welcome to NeoLine, please login first"
+   },
+   "logining": {
+      "message": "Logging in"
+   },
+   "logoutTip": {
+      "message": "Are you sure close wallet?"
+   },
+   "mainNet": {
+      "message": "MainNet"
+   },
+   "medium": {
+      "message": "Medium"
+   },
+   "message": {
+      "message": "Message"
+   },
+   "modifyNameInput": {
+      "message": "Please enter a new wallet name(length 1-32)"
+   },
+   "modifyNameTitle": {
+      "message": "Modify wallet name"
+   },
+   "myAccount": {
+      "message": "My account"
+   },
+   "myAccountQRCode": {
+      "message": "My wallet QR code"
+   },
+   "myAccounts": {
+      "message": "My accounts"
+   },
+   "myAddress": {
+      "message": "NEO address:"
+   },
+   "myAssets": {
+      "message": "My Assets"
+   },
+   "myNft": {
+      "message": "My NEP11"
+   },
+   "myQRCode": {
+      "message": "Address QR code"
+   },
+   "myTokens": {
+      "message": "my Tokens"
+   },
+   "newWallet": {
+      "message": "New wallet"
+   },
+   "newsletterDesc": {
+      "message": "You can unsubscribe from these newsletters at any time.For more information about how to unsubscribe, our privacy practices and how we are committed to protecting and respecting your privacy, please check our "
+   },
+   "newsletterPlaceholder": {
+      "message": "E-mail"
+   },
+   "newsletterTip": {
+      "message": "Get the latest updates from the NeoLine team"
+   },
+   "noData": {
+      "message": "No data"
+   },
+   "noMoreData": {
+      "message": "No more data"
+   },
+   "noTransaction": {
+      "message": "No transactions"
+   },
+   "oneMonthTxs": {
+      "message": "Only show transactions from the most recent month"
+   },
+   "onePasswordDesc": {
+      "message": "We have optimized wallet passwords and added password mode switching function, which support users before v4.0.0 to set a general password to manage multiple wallet accounts. Click 'Switch Now' to complete the account security verification and switch to the new password management mode."
+   },
+   "onePasswordTip": {
+      "message": "Please enter the passwords corresponding to all accounts correctly to complete the switch, and ensure that the wallet has been backed up safely."
+   },
+   "onlySupport": {
+      "message": "Support only for"
+   },
+   "openNeo3AppOnLedger": {
+      "message": "Please open the NEO N3 app on your Ledger device."
+   },
+   "openNeoAppOnLedger": {
+      "message": "Please open the NEO app on your Ledger device."
+   },
+   "or": {
+      "message": "OR"
+   },
+   "pages": {
+      "message": "pages"
+   },
+   "password": {
+      "message": "Password"
+   },
+   "passwordRequired": {
+      "message": "Password is required"
+   },
+   "paymentAccount": {
+      "message": "Payment wallet"
+   },
+   "personalAccount": {
+      "message": "Personal Account"
+   },
+   "plugInLedgerWallet": {
+      "message": "Plug in Ledger wallet"
+   },
+   "plugInLedgerWalletTip": {
+      "message": "Connect your wallet directly to your computer. Unlock your Ledger and open the Neo/Neo N3 app. For more on using your hardware wallet device, "
+   },
+   "priorityFee": {
+      "message": "Priority Fee"
+   },
+   "priorityFeeTip": {
+      "message": "Optional"
+   },
+   "privacyData": {
+      "message": "Authorized Sites"
+   },
+   "privacyPolicy": {
+      "message": "Privacy Policy"
+   },
+   "privacyPolicyWrods": {
+      "message": "Privacy policy."
+   },
+   "privateKeyTip": {
+      "message": "Tip: Please keep your private key properly and do not disclose it to anyone"
+   },
+   "pwdInput": {
+      "message": "Please enter your password"
+   },
+   "receiptAccount": {
+      "message": "Receipt wallet"
+   },
+   "receive": {
+      "message": "Receive"
+   },
+   "receiveOurNewsletter": {
+      "message": "Receive our Newsletter"
+   },
+   "received": {
+      "message": "Received"
+   },
+   "recommendedAssets": {
+      "message": "Recommended Assets"
+   },
+   "reconnectLedger": {
+      "message": "If the Ledger does not respond for a long time, please try to reconnect the Ledger"
+   },
+   "referSource": {
+      "message": "Reference source"
+   },
+   "refuse": {
+      "message": "Refuse"
+   },
+   "rejected": {
+      "message": "Rejected"
+   },
+   "rejectedTip": {
+      "message": "This site has been rejected to connect to your NeoLine wallet. Please go to Authorization Management and delete the corresponding record if you allow it to connect"
+   },
+   "remove": {
+      "message": "Remove"
+   },
+   "removeAccount": {
+      "message": "Remove account"
+   },
+   "reocords": {
+      "message": "reocords"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "resetWallet": {
+      "message": "Reset Wallet"
+   },
+   "resetWalletConfirm": {
+      "message": "After resetting the wallet, all the original wallet data will be erased and cannot be retrieved. Please confirm resetting the wallet?"
+   },
+   "saveChanges": {
+      "message": "Save changes"
+   },
+   "searchAllResult": {
+      "message": "All assets"
+   },
+   "searchAssetsInput": {
+      "message": "Please enter asset, enter to search"
+   },
+   "searchResult": {
+      "message": "Search result"
+   },
+   "selectAChain": {
+      "message": "Select a Chain"
+   },
+   "selectAccountConnect": {
+      "message": "Select an account"
+   },
+   "selectAsset": {
+      "message": "Choose Asset"
+   },
+   "sent": {
+      "message": "Sent"
+   },
+   "setLang": {
+      "message": "Languages"
+   },
+   "setting": {
+      "message": "SETTINGS"
+   },
+   "signTheTransaction": {
+      "message": "Please sign the transaction on your ledger."
+   },
+   "signUpToReceiveUpdatesAndAnnouncements": {
+      "message": "Sign up to receive updates and announcements"
+   },
+   "signature": {
+      "message": "Signature"
+   },
+   "signers": {
+      "message": "Signers"
+   },
+   "signing": {
+      "message": "Signing"
+   },
+   "size": {
+      "message": "Size"
+   },
+   "slow": {
+      "message": "Slow"
+   },
+   "submit": {
+      "message": "Submit"
+   },
+   "success": {
+      "message": "Success"
+   },
+   "switch": {
+      "message": "Switch"
+   },
+   "switchAccount": {
+      "message": "Switch account"
+   },
+   "switchAccountDesc": {
+      "message": "This will switch the selected account within NeoLine to a previously added account:"
+   },
+   "switchAccountTitle": {
+      "message": "Allow this site to switch the account?"
+   },
+   "switchNetwork": {
+      "message": "Switch network"
+   },
+   "switchNetworkDesc": {
+      "message": "This will switch the selected network within NeoLine to a previously added network:"
+   },
+   "switchNetworkTitle": {
+      "message": "Allow this site to switch the network?"
+   },
+   "syncNow": {
+      "message": "Sync"
+   },
+   "systemSettings": {
+      "message": "System settings"
+   },
+   "termsOfUse": {
+      "message": "Terms of Use"
+   },
+   "testNet": {
+      "message": "TestNet"
+   },
+   "thAssetTip": {
+      "message": "Do you want to add these assets?"
+   },
+   "thAuthDetail": {
+      "message": "This site is trying to request access to the Neo API so that it can interact with the Neo blockchain. Before approving your visit, be sure to double check that you are linking to the correct site."
+   },
+   "thAuthMore": {
+      "message": "Look more"
+   },
+   "thAuthTip": {
+      "message": "would like to connect to your wallet"
+   },
+   "thAuthTitle": {
+      "message": "Connection request"
+   },
+   "thSignTitle": {
+      "message": "This app is requesting your signature."
+   },
+   "thSignTxTitle": {
+      "message": "This app is requesting you to sign the transaction."
+   },
+   "time": {
+      "message": "Time"
+   },
+   "to": {
+      "message": "To"
+   },
+   "tranSubmit": {
+      "message": "Transaction submitted"
+   },
+   "transaction": {
+      "message": "Transaction"
+   },
+   "transactions": {
+      "message": "Transactions"
+   },
+   "transfer": {
+      "message": "Transfer"
+   },
+   "transferAddress": {
+      "message": "Transfer Address"
+   },
+   "transferAmountTip": {
+      "message": "Amount to transfer out"
+   },
+   "transferExportTip": {
+      "message": "Please keep your Private Key safe, do not show it to anyone"
+   },
+   "transferHistory": {
+      "message": "History"
+   },
+   "transferId": {
+      "message": "TxID"
+   },
+   "transferInfo": {
+      "message": "Transfer information"
+   },
+   "transferToTip": {
+      "message": "Who will receive"
+   },
+   "transferVolume": {
+      "message": "Volume"
+   },
+   "transgerTo": {
+      "message": "Transfer to"
+   },
+   "triggerContractAssetVerification": {
+      "message": "Will trigger contract asset verification?"
+   },
+   "unlockWallet": {
+      "message": "You need to enter the password of the account to unlock the wallet"
+   },
+   "updateTime": {
+      "message": "Update time"
+   },
+   "value": {
+      "message": "value"
+   },
+   "verify": {
+      "message": "Verify"
+   },
+   "verifyPassword": {
+      "message": "Verify your password"
+   },
+   "version": {
+      "message": "Version"
+   },
+   "viewAll": {
+      "message": "View all"
+   },
+   "viewOnNeoTube": {
+      "message": "View on NeoTube"
+   },
+   "waitConfirm": {
+      "message": "Please wait for confirmation"
+   },
+   "walletNameIsRequired": {
+      "message": "Wallet name is required"
+   },
+   "welcomeBack": {
+      "message": "Welcome back"
+   },
+   "welcomeCreate": {
+      "message": "Welcome to NeoLine. Create"
+   },
+   "welcomeImport": {
+      "message": "Welcome to NeoLine. Import"
+   },
+   "welcomeNeoLine": {
+      "message": "Welcome to NeoLine"
+   },
+   "wif": {
+      "message": "WIF(Private key)"
+   },
+   "wrongPassword": {
+      "message": "Wrong password"
+   },
+   "yes": {
+      "message": "Yes"
+   },
+   "youPrivateKey": {
+      "message": "Your Private key"
+   }
+}
